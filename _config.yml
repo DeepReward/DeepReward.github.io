@@ -7,3 +7,7 @@ title: DeepReward
 title_seperator:"-"
 email: your-email@domain.com
 description: "실습형 강화학습 스터디 그룹"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
