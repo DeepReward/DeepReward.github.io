@@ -4,11 +4,14 @@ google_analytics: UA-120265971-1
 
 
 # Site settings
-title: DeepReward
-title_seperator:"-"
+title: "DeepReward"
+title_seperator: "-"
 email: your-email@domain.com
 description: "실습형 강화학습 스터디 그룹"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+exclude:
+  - README.md
