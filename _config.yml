@@ -1,2 +1,9 @@
-theme: jekyll-theme-minimal
+url: https://DeepReward.github.io
 google_analytics: UA-120265971-1
+
+
+# Site settings
+title: DeepReward
+title_seperator:"-"
+email: your-email@domain.com
+description: "실습형 강화학습 스터디 그룹"
