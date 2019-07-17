@@ -1,19 +1,19 @@
 ---
 layout: post
 section-type: post
-title: 딥리워드 101 : 7월 행사 안내
-category: tech
+title: "딥리워드 101 : 7월 행사 안내"
+category: DeepReward101
 tags: [ 'tutorial' ]
 ---
 
-![img](img/DeepReward101/july_event.png)
+![img](/img/DeepReward101/july_event.png)
 
-[강화학습 핸즈온] 딥리워드 101 : 7월 
-#딥리워드101
+# [강화학습 핸즈온] 딥리워드 101 : 7월 
+## 딥리워드101
 
-<15일, 월, 오전 11시 반부터 등록가능>
-* 이벤트 링크 - https://www.facebook.com/events/409107823032305/
-* (티켓은 꼭 이 링크로) 신청 링크 - https://festa.io/events/383
+### <15일, 월, 오전 11시 반부터 등록가능>
+* 이벤트 링크 - [https://www.facebook.com/events/409107823032305/](https://www.facebook.com/events/409107823032305/)
+* (티켓은 꼭 이 링크로) 신청 링크 - [https://festa.io/events/383](https://festa.io/events/383)
 
 안녕하세요, 실습형 강화학습 스터디 그룹 '딥리워드'에서 '딥리워드 101' 행사를 준비했습니다. 많은 관심 주신 덕에 지난 1회차를 성황리에 마칠 수 있었습니다👏.
 
@@ -21,22 +21,22 @@ tags: [ 'tutorial' ]
 
 딥리워드 101은 강화학습 그룹 [딥리워드]에서 주관하고 뉴럴비씨AI에서 장소 후원을 받아 주최한 핸즈온 방식의 월간 행사입니다. 참여자분들과 함께 실습으로 차근차근 강화학습에 대해 쉽게 접할 수 있는 원데이클래스형 행사입니다. 
 
-------- 행사 기본 정보 ------
+#### ------- 행사 기본 정보 ------
 
 * 일시 : 7월 20일 (토) 오후 1시 - 5시
-* 장소 : 11 Terrace (삼성중앙역 4번 출구) / 네이버 지도 링크 - http://naver.me/xN71mq7i
+* 장소 : 11 Terrace (삼성중앙역 4번 출구) / 네이버 지도 링크 - [http://naver.me/xN71mq7i](http://naver.me/xN71mq7i)
 * 참가비 : 없음
-* 신청 - https://festa.io/events/383
+* 신청 - [https://festa.io/events/383](https://festa.io/events/383)
 * 주관 : 딥리워드 | 주최 : 싸이버스 | 후원 : (주)뉴럴비씨 AI Lab
 
------- 행사 참여 대상자 선수 지식 & 준비사항 ------
+#### ------ 행사 참여 대상자 선수 지식 & 준비사항 ------
 * 파이썬 기초 문법은 아셔야 합니다.
 * 개인노트북을 지참해 오셔야 하며, 행사 전 안내될 기본 준비사항들을 노트북에 구축해오셔야 합니다(사전 이메일로 공지). 
 * 강화학습에 대해서는 전혀 모른다는 가정하에 합니다.
 
------- 프로그램 안내 -------
+#### ------ 프로그램 안내 -------
 
-* 실습 자료 링크 - https://github.com/DeepReward/101
+* 실습 자료 링크 - [https://github.com/DeepReward/101](https://github.com/DeepReward/101)
 * 2개의 세션으로 구성되어 있고 한 세션 당 2시간에서 2시간 반 정도 걸립니다.
 
 * 세션 1 - RL 기본 알고리즘 - DP, MC, TD / 발표자 : 김영삼 
