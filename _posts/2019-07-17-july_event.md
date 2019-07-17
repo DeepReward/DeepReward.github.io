@@ -6,12 +6,14 @@ category: DeepReward101
 tags: [ 'tutorial' ]
 ---
 
-![img](/img/DeepReward101/july_event.png)
+
 
 # [강화학습 핸즈온] 딥리워드 101 : 7월 
-## 딥리워드101
 
-### <15일, 월, 오전 11시 반부터 등록가능>
+![img](/img/DeepReward101/july_event.png)
+
+<15일, 월, 오전 11시 반부터 등록가능>
+
 이벤트 링크 - [https://www.facebook.com/events/409107823032305/](https://www.facebook.com/events/409107823032305/)
 
 (티켓은 꼭 이 링크로) 신청 링크 - [https://festa.io/events/383](https://festa.io/events/383)
