@@ -61,9 +61,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Define your own reinforcement learning system."
+  - text: "Gain more rewards."
   - text: "What's your environment and agent?"
 
+# 프로필 이미지
 me-img: "/img/jetpacktocat.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
@@ -121,12 +122,12 @@ email-share: True
 fb-share: True
 twitter-share: True
 linkedin-share: True
-reddit-share: True
-google-plus-share: True
+reddit-share: False
+google-plus-share: False
 tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
 disqus-shortname: "personal-jekyll-theme"
 
@@ -152,7 +153,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: ""
 
 ################
 # Author Blurb #
