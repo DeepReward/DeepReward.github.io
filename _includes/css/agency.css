@@ -870,8 +870,8 @@ body {
 
 
 .site-category{
-    background: $brand-color;
-    border-top: 1px solid $border-color;
+    background: #0A2A29;
+    border-top: 1px solid black;
     margin:auto;
     padding:0;
     font-size:14px;
