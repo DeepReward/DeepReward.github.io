@@ -1,6 +1,6 @@
 ---
 layout: post
-section-type: post
+section-type: post2
 title: Writing posts
 category: tech
 tags: [ 'tutorial' ]
