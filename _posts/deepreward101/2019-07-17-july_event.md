@@ -14,24 +14,24 @@ tags: [ 'hanson' ]
 
 딥리워드 101은 실습형 강화학습 스터디 그룹 딥리워드에서 진행하는 핸즈온 방식의 월례 행사입니다.
 
-주최 : 딥리워드 ([사이트](https://deepreward.github.io/), [페이스북 그룹](https://www.facebook.com/groups/DeepReward/))<br />
-주관 : [싸이버스 셀프캠프](https://www.facebook.com/selfcamp/)<br />
-후원 : [(주)뉴럴비씨 AI Lab](http://www.neuralbc.com/)<br />
+* 주최 : 딥리워드 ([사이트](https://deepreward.github.io/), [페이스북 그룹](https://www.facebook.com/groups/DeepReward/))<br />
+* 주관 : [싸이버스 셀프캠프](https://www.facebook.com/selfcamp/)<br />
+* 후원 : [(주)뉴럴비씨 AI Lab](http://www.neuralbc.com/)<br />
 
 #### 준비사항 공통 
-개인 노트북 지참<br />
-아나콘다 설치 (파이썬 3 버전) - [아나콘다 사이트](https://www.anaconda.com/distribution/)<br />
-jupyter notebook 환경 구축 <br />
-세션2 참가자의 경우<br />
-    스타2 설치 - [설치 링크](https://starcraft2.com/ko-kr/)
+* 개인 노트북 지참<br />
+* 아나콘다 설치 (파이썬 3 버전) - [아나콘다 사이트](https://www.anaconda.com/distribution/)<br />
+* jupyter notebook 환경 구축 <br />
+* 세션2 참가자의 경우<br />
+    * 스타2 설치 - [설치 링크](https://starcraft2.com/ko-kr/)
 
 #### 세션 1 - RL 기본 알고리즘 - DP, MC, TD  
-발표자 : 김영삼<br />
-강화학습 기본 알고리즘. 파이썬 기본 문법 숙지 필요.<br />
-실습 환경 준비 사항<br />
-    - Numpy, matplotlib 패키지 설치 필요.<br />
-발표자료<br />
-    - 실습 - [링크](https://github.com/Youngsam/dr101)<br />
+* 발표자 : 김영삼<br />
+* 강화학습 기본 알고리즘. 파이썬 기본 문법 숙지 필요.<br />
+* 실습 환경 준비 사항<br />
+    * Numpy, matplotlib 패키지 설치 필요.<br />
+* 발표자료<br />
+    * 실습 - [링크](https://github.com/Youngsam/dr101)<br />
 
 #### 세션 2 - AlphaStar 실습 - Agent에 Deep RL 적용하기 
 발표자 : 차금강<br />
