@@ -9,14 +9,15 @@
 
         {% assign post = site.posts.first %}
         <h4> <strong> {{ post.date | date_to_string }} </strong>
+          <br />
           <small>
-            <br />
             category:
-            <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
+            <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}">
               {{ post.category }}
             </a>
           </small>
-          <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
+          <br />
+          <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a>
           <!-- <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small> -->
         </h4>
 
