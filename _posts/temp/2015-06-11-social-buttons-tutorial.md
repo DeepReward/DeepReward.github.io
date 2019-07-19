@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 section-type: post2
 title: Modifying the social buttons
 category: tech
