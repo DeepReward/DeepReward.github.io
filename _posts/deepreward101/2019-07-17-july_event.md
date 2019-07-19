@@ -14,16 +14,16 @@ tags: [ 'hanson' ]
 
 딥리워드 101은 실습형 강화학습 스터디 그룹 딥리워드에서 진행하는 핸즈온 방식의 월례 행사입니다.
 
-- 주최 : 딥리워드 ([사이트](https://deepreward.github.io/), [페이스북 그룹](https://www.facebook.com/groups/DeepReward/))
-- 주관 : [싸이버스 셀프캠프](https://www.facebook.com/selfcamp/)
-- 후원 : [(주)뉴럴비씨 AI Lab](http://www.neuralbc.com/)
+주최 : 딥리워드 ([사이트](https://deepreward.github.io/), [페이스북 그룹](https://www.facebook.com/groups/DeepReward/))<br />
+주관 : [싸이버스 셀프캠프](https://www.facebook.com/selfcamp/)<br />
+후원 : [(주)뉴럴비씨 AI Lab](http://www.neuralbc.com/)<br />
 
 #### 준비사항 공통 
-- 개인 노트북 지참
-- 아나콘다 설치 (파이썬 3 버전) - https://www.anaconda.com/distribution/
-- jupyter notebook 환경 구축 
-- 세션2 참가자의 경우
-    - 스타2 설치 - https://starcraft2.com/ko-kr/
+개인 노트북 지참
+아나콘다 설치 (파이썬 3 버전) - https://www.anaconda.com/distribution/
+jupyter notebook 환경 구축 
+세션2 참가자의 경우
+    스타2 설치 - https://starcraft2.com/ko-kr/
 
 #### 세션 1 - RL 기본 알고리즘 - DP, MC, TD  
 - 발표자 : 김영삼 
