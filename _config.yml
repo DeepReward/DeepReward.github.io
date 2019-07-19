@@ -21,7 +21,7 @@ google-tracking-id: ""
 google_analytics: UA-120265971-1
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 # permalink: pretty
 
 # Forces https everywhere in your website, except when you serve it locally
