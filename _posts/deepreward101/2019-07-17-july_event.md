@@ -47,6 +47,8 @@ jupyter notebook 환경 구축 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;실습 - [링크](https://github.com/chagmgang/pysc2_tutorial)<br />
     
 
+### 행사 관련 설문 조사
+[이곳](https://forms.office.com/Pages/ResponsePage.aspx?id=qTsmgbP9EUOIAbAlmHLodMrA2ynRrT5Ik6F95Ngc0ARUQ1BOUkgySks4OTBHOUwyNEozMUhQMEdFNiQlQCN0PWcu&fbclid=IwAR1Cn4CCPQdyHqbpMfhv9PyUSEZV34hvFSnc2INcUVzBF3GfUgdi1QRwqLk)에서 설문 조사를 해주세요.
 
 
 ---
