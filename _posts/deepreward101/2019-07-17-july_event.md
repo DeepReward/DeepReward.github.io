@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: "[강화학습 핸즈온] 딥리워드 101 : 7월"
 category: DeepReward101
-tags: [ 'hanson' ]
+tags: [ 'handson' ]
 ---
 
 
