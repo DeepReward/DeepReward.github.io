@@ -23,7 +23,8 @@ tags: [ 'hanson' ]
 
 세션 1
 RL Basic - TD, Multi-Step, Eligibility Trace / 발표자 : 김영삼 
-> 강화학습 기본 개념, MDP, DP 등의 7월 발표 내용을 선수개념으로 함. 파이썬 기본 문법 숙지.
+> 강화학습 기본 개념, MDP, DP 등의 7월 발표 내용을 선수개념으로 함.
+> 파이썬 기본 문법 숙지.
 
 세션 2
 Deep RL Hands-on - PyTorch 기초, The Cross-Entropy Method / 발표자 : 김무성
