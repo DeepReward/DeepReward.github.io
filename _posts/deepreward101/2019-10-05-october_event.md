@@ -6,21 +6,23 @@ category: DeepReward101
 tags: [ 'handson' ]
 ---
 
-![img](/img/DeepReward101/obtober_event.jpeg)
+![img](/img/DeepReward101/october_event.jpeg)
 
 [강화학습 핸즈온] 딥리워드 101 : 10월 - 일반 등록
 
 * 이벤트 링크 - https://www.facebook.com/events/396359494384642/
 
 안녕하세요, 실습형 강화학습 스터디 그룹 '딥리워드'의 '딥리워드 101' - 10월 행사입니다.
-딥리워드 101은 - 강화학습 그룹 [딥리워드]에서 주관하고, Cosmic BC 에서 장소 후원을 받아 주최하는 - 핸즈온 방식의 월간 행사입니다. 참여자분들과 함께 실습으로 차근차근 강화학습에 대해 쉽게 접할 수 있는 원데이 클래스형 행사입니다.
+
+딥리워드 101은 - 강화학습 그룹 [딥리워드]에서 주관하고, Cosmic BC 에서 장소 후원을 받아 주최하는 - 핸즈온 방식의 월간 행사입니다. 
+참여자분들과 함께 실습으로 차근차근 강화학습에 대해 쉽게 접할 수 있는 원데이 클래스형 행사입니다.
 
 ------- 행사 기본 정보 ------
-* 일시 : 10월 5일 (토) 오후 1시 - 6시
-* 장소 : 11 Terrace (삼성중앙역 4번 출구) / 네이버 지도 링크 - http://naver.me/xN71mq7i
-* 참가비 : 없음
-* 신청 - https://festa.io/events/570
-* 주관 : 딥리워드 | 주최 : 싸이버스 | 후원 : Cosmic BC
+일시 : 10월 5일 (토) 오후 1시 - 6시
+장소 : 11 Terrace (삼성중앙역 4번 출구) / 네이버 지도 링크 - http://naver.me/xN71mq7i
+참가비 : 없음
+신청 - https://festa.io/events/570
+주관 : 딥리워드 | 주최 : 싸이버스 | 후원 : Cosmic BC
 
 -----
 싸이버스 링크 :point_right: https://www.facebook.com/thepsybus/
