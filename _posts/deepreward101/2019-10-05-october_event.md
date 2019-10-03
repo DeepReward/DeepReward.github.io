@@ -19,7 +19,8 @@ tags: [ 'handson' ]
 ------- 행사 기본 정보 ------
 
 일시 : 10월 5일 (토) 오후 1시 - 6시  
-장소 : 11 Terrace (삼성중앙역 4번 출구) / 네이버 지도 링크 - http://naver.me/xN71mq7i  
+장소 : 11 Terrace(삼성중앙역 4번 출구)  
+네이버 지도 : http://naver.me/xN71mq7i  
 참가비 : 없음  
 신청 - https://festa.io/events/570  
 주관 : 딥리워드 | 주최 : 싸이버스 | 후원 : Cosmic BC  
